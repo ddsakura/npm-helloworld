@@ -1,0 +1,11 @@
+{
+    "name": "dd_helloworld",
+    "version": "0.0.1",
+    "description": "it is just hello world test",
+    "main": "index.js",
+    "keywords": [],
+    "repository" : {
+        "type" : "git",
+        "url" : "https://yikulju@github.com/yikulju/Foursquare-on-node.git"
+    }
+}
