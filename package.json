@@ -1,6 +1,6 @@
 {
     "name": "dd_helloworld",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "it is just hello world test",
     "main": "index.js",
     "keywords": [],
